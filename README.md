@@ -37,4 +37,4 @@ This is the README. My first one, lets see what we create.
 
 # Git Pull:
 1.  In terminal, directory should be the repo you want to update
-2.  Run command, `git pull`
+2.  Run command, `git pull` 
